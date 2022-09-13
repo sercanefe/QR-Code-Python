@@ -14,4 +14,4 @@ code.add_data("https://www.linkedin.com/in/sercan-efe-karaman-30055a210/")
 code.make(fit = True)
 
 image = code.make_image(fill_color="black",back_color="white")
-image.save("qr1.png") 
+image.save("qr1.png")
